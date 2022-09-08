@@ -1,6 +1,5 @@
 Feature: Testing the whole information of a person with three layer of information
 
-
   Scenario: UI,API,DB Verification
     Given user logs in using "sbirdbj@fc2.com" "asenorval"
     When user is on the my self page
